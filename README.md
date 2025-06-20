@@ -4,14 +4,19 @@
 ---
 
 ### 🧠 Currently Studying:
-- 📚 **Computer Science (L-31)** at *Università degli Studi di Catania (UniCT)*
+- 📚 **Bachelor's Degree in Computer Science (L-31)**  
+  at *University of Catania (UniCT)*
 
-### 💻 I'm currently working on:
-- [📁 Ingegneria del Software - IDS](https://github.com/luigicast0408/Ingegneria-Del-Software-IDS-)
-- 🧠 Sistemi Operativi - S.O.
-- 🌐 Reti di Calcolatori
+---
 
-### 🌐 Connect with me:
+### 💻 Currently Working On:
+- [📁 Software Engineering - IDS](https://github.com/luigicast0408/Ingegneria-Del-Software-IDS-)
+- 🧠 Operating Systems
+- 🌐 Computer Networks
+
+---
+
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://instagram.com/luigi_cast08" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -23,9 +28,9 @@
 
 ---
 
-### 📫 How to reach me:
-**Email:** luigidomenicocastano08@gmail.com  
-**GitHub:** [github.com/luigicast0408](https://github.com/luigicast0408)
+### 📫 Contact Me:
+- **Email:** luigidomenicocastano08@gmail.com  
+- **GitHub:** [github.com/luigicast0408](https://github.com/luigicast0408)
 
 ---
 
@@ -35,8 +40,49 @@
 ### 🌍 Web Development:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,jquery,mysql,tailwind)](https://skillicons.dev)
 
-### ⚙️ Other Tools & Technologies:
+### ⚙️ Tools & Technologies:
 [![My Skills](https://skillicons.dev/icons?i=git,github,latex,arduino,raspberrypi)](https://skillicons.dev)
+
+---
+
+### 🏅 Certifications
+
+| 📅 Date        | 🏢 Issued By     | 📜 Certification                          |
+|---------------|------------------|--------------------------------------------|
+| Mar 2024      | Microsoft         | Azure Fundamentals                         |
+| Mar 2024      | Microsoft         | Git                                        |
+| Mar 2024      | Microsoft         | Transact-SQL                               |
+| Apr 2023      | ENAC              | Drone Pilot A1-A3                          |
+| Feb 2023      | Cisco             | CCNAv7                                     |
+| Jun 2022      | ICDL              | ECDL Full Certification                    |
+| Jun 2022      | Cisco             | NDG Linux                                  |
+| Jun 2022      | Cisco             | Python Programming                         |
+| Jun 2021      | Cisco             | C Programming                              |
+| Jun 2021      | Cisco             | IT Essentials                              |
+| Apr 2021      | Cisco             | Cybersecurity Essentials                   |
+| Mar 2021      | Cisco             | Cybersecurity                              |
+| Mar 2021      | Samsung           | Solve For Tomorrow Challenge               |
+| Dec 2020      | Cisco             | NDG Linux II                               |
+| Nov 2020      | Cisco             | Get Connected                              |
+
+---
+
+### 🏆 Awards & Achievements
+
+| 📅 Date        | 🏢 Organization                         | 🥇 Description                                               |
+|---------------|------------------------------------------|--------------------------------------------------------------|
+| Apr 2023      | RoboCup Junior Italia                    | National Finalist – RoboCup 2023 (Rescue Line Category)     |
+| Mar 2023      | I.I.S. "Aldini Valeriani"                | National Finalist – Italian Olympiad in Informatics (Team)  |
+| Apr 2022      | RoboCup Junior                           | National Finalist – RoboCup 2022 (Rescue Line Category)     |
+
+---
+
+### 🤝 Volunteering
+
+| 📅 Period            | 🏢 Organization                          | 🎖️ Role        |
+|----------------------|------------------------------------------|----------------|
+| Oct 2015 – Present   | CNGEI – Italian Secular Scout Association | Scout          |
+| Mar 2024 – Present   | CNGEI – Italian Secular Scout Association | Scout Leader   |
 
 ---
 
